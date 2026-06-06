@@ -3,7 +3,7 @@
 ## 📖 專案簡介 (Project Overview)
 本專案結合了深度學習 (Deep Learning) 與強化學習 (Reinforcement Learning) 技術，旨在為污水處理廠建立一套智慧決策輔助系統。透過長短期記憶神經網路 (LSTM) 對放流水質（NH4 濃度）進行精準預測，並利用 Proximal Policy Optimization (PPO) 強化學習代理人自動尋找最佳的操作參數配置（內迴流比 Ri 與外迴流比 Re），在確保水質符合法規標準的前提下，實現廠區操作的最佳化。
 
-![LSTM NH4 預測結果](./資訊圖表.png)
+
 
 ---
 
